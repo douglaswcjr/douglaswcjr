@@ -26,10 +26,6 @@ Comecei em Engenharia Civil e entrei em dados por um caminho torto: fui parar na
 ![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=flat)
 ![BPMN / Bizagi](https://img.shields.io/badge/BPMN-Bizagi-0072C6?style=flat)
 
-## GitHub em números
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=douglaswcjr&show_icons=true&hide_border=true&bg_color=1a1f2e&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e5e5)
-
 ## Explorando agora
 
 Fechei recentemente uma trilha de IA aplicada (classificação de imagem e áudio com TensorFlow/Keras, RAG e agentes com LlamaIndex) pra testar onde isso resolve problema real de BI e automação, não pra virar discurso de cientista de dados. Em paralelo, MBA em Business Intelligence & Analytics 360 pela Xperiun, conclusão prevista pra 2027.
